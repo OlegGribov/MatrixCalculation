@@ -1,0 +1,15 @@
+19:18:36.217 [JavaFX Application Thread] INFO  com.example.matrixcalculation.MainController - The 'Matrix A' checkbox is pressed.
+19:18:45.599 [JavaFX Application Thread] INFO  com.example.matrixcalculation.MainController - The 'Determinant' button is pressed.
+19:18:45.599 [JavaFX Application Thread] INFO  com.example.matrixcalculation.MainController - The calculateDeterminant method has been called for the 'Determinant' button.
+19:18:45.599 [JavaFX Application Thread] INFO  com.example.matrixcalculation.MainController - Matrix B is selected.
+19:18:45.600 [JavaFX Application Thread] INFO  com.example.matrixcalculation.MainController - The value of the determinant is displayed in a text area.
+19:18:50.470 [JavaFX Application Thread] INFO  com.example.matrixcalculation.MainController - The 'Matrix A' checkbox is pressed.
+19:18:57.863 [JavaFX Application Thread] INFO  com.example.matrixcalculation.MainController - The 'A + B' button is pressed.
+19:18:57.863 [JavaFX Application Thread] INFO  com.example.matrixcalculation.MainController - The calculateMatrixSum method has been called for the 'A + B' button.
+19:18:57.863 [JavaFX Application Thread] INFO  com.example.matrixcalculation.MainController - The sum value is displayed in the text area.
+19:18:58.462 [JavaFX Application Thread] INFO  com.example.matrixcalculation.MainController - The 'A - B' button is pressed.
+19:18:58.463 [JavaFX Application Thread] INFO  com.example.matrixcalculation.MainController - The calculateMatrixDiff method has been called for the 'A - B' button.
+19:18:58.463 [JavaFX Application Thread] INFO  com.example.matrixcalculation.MainController - The difference value is displayed in the text area.
+19:18:59.094 [JavaFX Application Thread] INFO  com.example.matrixcalculation.MainController - The 'A * B' button is pressed.
+19:18:59.095 [JavaFX Application Thread] INFO  com.example.matrixcalculation.MainController - The calculateMatrixMul method has been called for the 'A * B' button.
+19:18:59.095 [JavaFX Application Thread] INFO  com.example.matrixcalculation.MainController - The multiplication value is displayed in the text area.
